@@ -21,5 +21,5 @@
   #### Top Repositories
 
 <a href="https://github.com/renthus/curriculo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renthus&repo=renthus/github.io/curriculo&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renthus&repo=curriculo&theme=buefy" />
 </a>

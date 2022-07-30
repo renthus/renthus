@@ -12,8 +12,9 @@
 ## ⚙️ &nbsp;GitHub Analytics:
 <div align="center">
   <a href="https://github.com/renthus">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renthus&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renthus&layout=compact&langs_count=7&theme=github_dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renthus&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renthus&layout=compact&langs_count=7&theme=github_dark"/>
+    <img height='180em' src="https://github-readme-streak-stats.herokuapp.com?user=renthus&theme=gruvbox_duo&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=#52DD81&dates=#52DD81&stroke=ABCFDD"/>
 </div>
 
 ## 🛠 &nbsp; Technologies in Learning Mode:

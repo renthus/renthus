@@ -6,7 +6,7 @@
 - 👩‍🎓 Internet Systems Degree Student and Postgraduate (specialization) in Program Analysis and Development.
 - 🏫 Expert Campus DIO Ambassador: https://dio.me/sign-up?ref=06KIKS0GB9
 - 💻 My Resume by Competency / Portfolio: https://renthus.github.io/curriculo/
-- 📚 Complementary studies in FIAP and EBAC Institutions.
+- 📚 Complementary studies at FIAP and EBAC Institutions.
 - 📱 Phone: **(15) 99606-4114**.
 
 ## ⚙️ &nbsp;GitHub Analytics:

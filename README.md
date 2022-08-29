@@ -3,7 +3,7 @@
 
 ## About Me:
 - 👩‍ Software Developer Full Stack Python.
-- 👩‍🎓 Internet Systems Degree Student and Postgraduate (specialization) in Program Analysis and Development.
+- 👩‍🎓 Internet Systems Degree and Graduate Degree in Program Analysis and Development Student.
 - 🏫 Expert Campus DIO Ambassador: https://dio.me/sign-up?ref=06KIKS0GB9
 - 💻 My Resume by Competency / Portfolio: https://renthus.github.io/curriculo/
 - 📚 Complementary studies at FIAP and EBAC Institutions.

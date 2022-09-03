@@ -1,6 +1,10 @@
 # Hello, welcome to my account. I'm glad you're here!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renthus&label=Profile%20views&color=0e75b6&style=flat" alt="renthus"> </p>
 
+<p align="left">
+    <img src="https://github-profile-trophy.vercel.app/?username=renthus&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
+</p>
+
 ## About Me:
 - 👩‍ Software Developer Full Stack Python.
 - 👩‍🎓 Internet Systems Degree and Graduate Degree in Program Analysis and Development Student.

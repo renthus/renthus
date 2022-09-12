@@ -1,11 +1,3 @@
-# Hello, welcome to my account. I'm glad you're here!
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=renthus&label=Profile%20views&color=0e75b6&style=flat" alt="renthus"> </p>
-
-<p align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=renthus&theme=algolia"/>
-</p>
-
 <pre>
   ___   _      ___   _      ___   _      ___   _      ___   _
  [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|
@@ -48,6 +40,12 @@
 │
 └───────────────────────────────────────────────────────────────▰▰▰
 </pre>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=renthus&label=Profile%20views&color=0e75b6&style=flat" alt="renthus"> </p>
+
+<p align="left">
+    <img src="https://github-profile-trophy.vercel.app/?username=renthus&theme=algolia"/>
+</p>
+
 ## ⚙️ &nbsp;GitHub Analytics:
 <div align="center">
   <a href="https://github.com/renthus">

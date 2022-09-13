@@ -35,6 +35,7 @@
 <pre>
 ┌──┤ PROJECTS | CYBERSECURITY ├────▰▰▰
 │
+├─▣ <a href="https://github.com/renthus/wifi-network-detection-with-python" target="_blank">Wi-fi Network Detection with Python</a>
 ├─▣ <a href="https://github.com/renthus/security-passwords-manager-exe" target="_blank">Secure Password Manager</a>
 ├─▣ <a href="https://github.com/renthus/secure-passwords-generator" target="_blank">Web Secure Password Generator</a>
 │

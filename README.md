@@ -35,6 +35,7 @@
 <pre>
 ┌──┤ PROJECTS | CYBERSECURITY ├────▰▰▰
 │
+├─▣ <a href="https://github.com/renthus/brute-force-folders-with-python" target="_blank">Brute Force Folders with Python</a> 
 ├─▣ <a href="https://github.com/renthus/network-scanning-with-python" target="_blank">Network Scanning with Python</a>
 ├─▣ <a href="https://github.com/renthus/wifi-network-detection-with-python" target="_blank">Wi-fi Network Detection with Python</a>
 ├─▣ <a href="https://github.com/renthus/security-passwords-manager-exe" target="_blank">Secure Password Manager</a>

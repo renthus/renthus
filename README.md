@@ -35,6 +35,7 @@
 <pre>
 ┌──┤ PROJECTS | CYBERSECURITY ├────▰▰▰
 │
+├─▣ <a href="https://github.com/renthus/port-scanner-with-python" target="_blank">Port Scanner with Python</a>
 ├─▣ <a href="https://github.com/renthus/web-crawler-with-python" target="_blank">Web Crawler with Python</a> 
 ├─▣ <a href="https://github.com/renthus/brute-force-folders-with-python" target="_blank">Brute Force Folders with Python</a> 
 ├─▣ <a href="https://github.com/renthus/network-scanning-with-python" target="_blank">Network Scanning with Python</a>

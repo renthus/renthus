@@ -35,6 +35,7 @@
 <pre>
 ┌──┤ PROJECTS | CYBERSECURITY ├────▰▰▰
 │
+├─▣ <a href="https://github.com/renthus/password-crack-file-with-python" target="_blank">Password Crack File with Python</a>
 ├─▣ <a href="https://github.com/renthus/cve-search-with-python" target="_blank">CVE Search with Python</a>
 ├─▣ <a href="https://github.com/renthus/service-enumeration-and-banner-with-python" target="_blank">Service Enumeration and Banner with Python</a>
 ├─▣ <a href="https://github.com/renthus/port-scanner-with-python" target="_blank">Port Scanner with Python</a>

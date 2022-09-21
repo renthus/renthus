@@ -35,6 +35,7 @@
 <pre>
 ┌──┤ PROJECTS | CYBERSECURITY ├────▰▰▰
 │
+├─▣ <a href="https://github.com/renthus/ssh-password-crack-with-python" target="_blank">SSH Password Crack with Python</a>
 ├─▣ <a href="https://github.com/renthus/ftp-password-crack-with-python" target="_blank">FTP Password Crack with Python</a>
 ├─▣ <a href="https://github.com/renthus/password-crack-file-with-python" target="_blank">Password Crack File with Python</a>
 ├─▣ <a href="https://github.com/renthus/cve-search-with-python" target="_blank">CVE Search with Python</a>

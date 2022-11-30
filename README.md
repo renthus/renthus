@@ -36,7 +36,7 @@
 ┌──┤ PROJECTS | WEB DEVELOPMENT ├────▰▰▰
 │
 ├─▣ <a href="https://github.com/renthus/secure-passwords-generator" target="_blank">Secure Passwords Generator</a>
-├─▣ <a href="https://github.com/renthus/website-for-community" target="_blank">Website for Community</a>
+├─▣ <a href="https://github.com/renthus/website-for-community" target="_blank">Website for Community</a> | <a href="https://comunidade17.herokuapp.com/" target="_blank">Access the deploy here!</a>
 │
 └───────────────────────────────────────────────────────────────▰▰▰
 </pre>

@@ -15,7 +15,7 @@
 │
 ├─▣ Python Developer
 ├─▣ Bachelor of Software Engineering student
-├─▣ Graduate Degree in Program Analysis and Development Student
+├─▣ Graduate Degree in Program Analysis and Development student
 ├─▣ <a href="https://dio.me/sign-up?ref=06KIKS0GB9">Expert Campus DIO Ambassador</a>
 ├─▣ <a href="https://renthus.github.io/curriculo/">My Resume by Competency / Portfolio</a>
 │

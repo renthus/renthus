@@ -13,8 +13,8 @@
 <pre>
 ┌──┤ WHOAMI ├────▰▰▰
 │
-├─▣ Software Developer Full Stack Python
-├─▣ Cyber Security Defense Degree
+├─▣ Python Developer
+├─▣ Bachelor of Software Engineering student
 ├─▣ Graduate Degree in Program Analysis and Development Student
 ├─▣ <a href="https://dio.me/sign-up?ref=06KIKS0GB9">Expert Campus DIO Ambassador</a>
 ├─▣ <a href="https://renthus.github.io/curriculo/">My Resume by Competency / Portfolio</a>
@@ -29,6 +29,14 @@
 ├─▣ <a href="https://www.linkedin.com/in/renatodasilvamaldonado/" target="_blank">LinkedIn</a>
 ├─▣ <a href="https://t.me/renatomaldonado" target="_blank">Telegram</a>
 ├─▣ <a href="https://discord.com/channels/@me/749017217261109359" target="_blank">Discord</a>
+│
+└───────────────────────────────────────────────────────────────▰▰▰
+</pre>
+<pre>
+┌──┤ PROJECTS | WEB DEVELOPMENT ├────▰▰▰
+│
+├─▣ <a href="https://github.com/renthus/secure-passwords-generator" target="_blank">Secure Passwords Generator</a>
+├─▣ <a href="https://github.com/renthus/website-for-community" target="_blank">Website for Community</a>
 │
 └───────────────────────────────────────────────────────────────▰▰▰
 </pre>

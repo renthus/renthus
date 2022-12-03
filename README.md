@@ -8,7 +8,11 @@
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16&link=https://github.com/renthus)](https://open.spotify.com/user/n47egsotufc2ruxtlnex6cra9)
 
 </h4>
-I'm passionate about technology!
+I'm passionate about technology! Since 2011 when I started working as accountant analyst in corporate environment of big entreprise, I constantly useded tecnology tools and VBA programmer language for build softwares for automations and controls.
+
+I participated in two important SAP projects as internal consultant in FI/GL module.
+
+I got to know python throught data scientist course and then, so I'm studing this programming language for web development, tasks automation and cyber security hacking.
 
 I have knowledge in:
 

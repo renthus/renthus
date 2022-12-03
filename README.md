@@ -14,6 +14,8 @@ I participated in two important SAP projects as internal consultant in FI/GL mod
 
 I got to know python throught data scientist course and then, so I'm studing this programming language for web development, tasks automation and cyber security hacking.
 
+I'm studying Software Engineering bachelor and postgraduate in Analysis and Program Development.
+
 I have knowledge in:
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=renthus&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renthus&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=renthus&theme=nord_dark) |

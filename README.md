@@ -1,116 +1,19 @@
-<pre>
-  ___   _      ___   _      ___   _      ___   _      ___   _      ___   _      ___   _      ___   _      ___   _  
- [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|
-  '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|
- /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /      /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /
-       |____________|____________|____________|____________|_____________|____________|____________|____________|
-                             |            |            |             |            |            |             |
-                         ___  \_      ___  \_      ___  \_       ___  \_      ___  \_      ___  \_       ___  \_
-                        [(_)] |=|    [(_)] |=|    [(_)] |=|     [(_)] |=|    [(_)] |=|    [(_)] |=|     [(_)] |=|
-                         '-`  |_|     '-`  |_|     '-`  |_|      '-`  |_|     '-`  |_|     '-`  |_|      '-`  |_|
-                        /mmm/        /mmm/        /mmm/         /mmm/        /mmm/        /mmm/         /mmm/
-</pre>
-<pre>
-┌──┤ WHOAMI ├────▰▰▰
-│
-├─▣ Python Developer
-├─▣ Bachelor of Software Engineering student
-├─▣ Graduate Degree in Program Analysis and Development student
-├─▣ <a href="https://dio.me/sign-up?ref=06KIKS0GB9">Expert Campus DIO Ambassador</a>
-├─▣ <a href="https://renthus.github.io/curriculo/">My Resume by Competency / Portfolio</a>
-│
-└───────────────────────────────────────────────────────────────▰▰▰
-</pre>
-<pre>
-┌──┤ SOCIAL ├────▰▰▰
-│
-├─▣ <a href="mailto:renthusdsm@gmail.com" target="_blank">E-mail</a>
-├─▣ <a href="https://twitter.com/renthusdsm" target="_blank">Twitter</a>
-├─▣ <a href="https://www.linkedin.com/in/renatodasilvamaldonado/" target="_blank">LinkedIn</a>
-├─▣ <a href="https://t.me/renatomaldonado" target="_blank">Telegram</a>
-├─▣ <a href="https://discord.com/channels/@me/749017217261109359" target="_blank">Discord</a>
-│
-└───────────────────────────────────────────────────────────────▰▰▰
-</pre>
-<pre>
-┌──┤ PROJECTS | WEB DEVELOPMENT ├────▰▰▰
-│
-├─▣ <a href="https://github.com/renthus/secure-passwords-generator" target="_blank">Secure Passwords Generator</a>
-├─▣ <a href="https://github.com/renthus/website-for-community" target="_blank">Website for Community</a> | <a href="https://comunidade17.herokuapp.com/" target="_blank">Access the deploy here!</a>
-│
-└───────────────────────────────────────────────────────────────▰▰▰
-</pre>
-<pre>
-┌──┤ PROJECTS | CYBERSECURITY ├────▰▰▰
-│
-├─▣ <a href="https://github.com/renthus/email-finder-with-python" target="_blank">Email Finder with Python</a>
-├─▣ <a href="https://github.com/renthus/wifi-password-crack-with-python" target="_blank">Wi-Fi Password Crack with Python</a>
-├─▣ <a href="https://github.com/renthus/ssh-password-crack-with-python" target="_blank">SSH Password Crack with Python</a>
-├─▣ <a href="https://github.com/renthus/ftp-password-crack-with-python" target="_blank">FTP Password Crack with Python</a>
-├─▣ <a href="https://github.com/renthus/password-crack-file-with-python" target="_blank">Password Crack File with Python</a>
-├─▣ <a href="https://github.com/renthus/cve-search-with-python" target="_blank">CVE Search with Python</a>
-├─▣ <a href="https://github.com/renthus/service-enumeration-and-banner-with-python" target="_blank">Service Enumeration and Banner with Python</a>
-├─▣ <a href="https://github.com/renthus/port-scanner-with-python" target="_blank">Port Scanner with Python</a>
-├─▣ <a href="https://github.com/renthus/web-crawler-with-python" target="_blank">Web Crawler with Python</a> 
-├─▣ <a href="https://github.com/renthus/brute-force-folders-with-python" target="_blank">Brute Force Folders with Python</a> 
-├─▣ <a href="https://github.com/renthus/network-scanning-with-python" target="_blank">Network Scanning with Python</a>
-├─▣ <a href="https://github.com/renthus/wifi-network-detection-with-python" target="_blank">Wi-fi Network Detection with Python</a>
-├─▣ <a href="https://github.com/renthus/security-passwords-manager-exe" target="_blank">Secure Password Manager</a>
-├─▣ <a href="https://github.com/renthus/secure-passwords-generator" target="_blank">Web Secure Password Generator</a>
-│
-└───────────────────────────────────────────────────────────────▰▰▰
-</pre>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=renthus&label=Profile%20views&color=0e75b6&style=flat" alt="renthus"> </p>
+# Hi, I'm Renato 👨🏻‍💻
 
-<p align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=renthus&theme=algolia"/>
-</p>
+<h4 align="center">
 
-## ⚙️ &nbsp;GitHub Analytics:
-<div align="center">
-  <a href="https://github.com/renthus">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renthus&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renthus&layout=compact&langs_count=7&theme=github_dark"/>
-    <img height='180em' src="https://github-readme-streak-stats.herokuapp.com?user=renthus&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&fire=DD0000"/>
-</div>
+[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/renthus)](https://www.facebook.com/renato.dasilvamaldonado/)
+[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/renthus)](https://www.instagram.com/renatosmaldonado/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/renthus)](https://www.linkedin.com/in/renatodasilvamaldonado/)
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16&link=https://github.com/renthus)](https://open.spotify.com/user/n47egsotufc2ruxtlnex6cra9)
 
-## 🛠 &nbsp; Technologies in Learning Mode:
-<div style="display: inline_block"><br>
-Frontend:
-  <img align="center" alt="Renato-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Renato-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Renato-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Renato-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <br><br>
-  Backend:
-  <img align="center" alt="Renato-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Renato-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">  
-  <br><br>
-  Data Base:
-  <img align="center" alt="Renato-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Renato-SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-  <br><br>
-  Version Control:
-  <img align="center" alt="Renato-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <br><br>
-  Operational System:
-  <img align="center" alt="Renato-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
-  <img align="center" alt="Renato-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Renato-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
-  <br><br>
-  IDE's:
-  <img align="center" alt="Renato-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
-  <img align="center" alt="Renato-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <br><br>
-  Others:
-  <img align="center" alt="Renato-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg">
-</div>
-  
-## Top Repositories:
+</h4>
+I'm passionate about technology!
 
-<a href="https://github.com/renthus/curriculo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renthus&repo=curriculo&theme=github_dark">
-</a>
-<a href="https://github.com/renthus/security-passwords-manager-exe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renthus&repo=security-passwords-manager-exe&theme=github_dark">
-</a>
+I have knowledge in:
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=renthus&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renthus&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=renthus&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renthus&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=renthus&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |

@@ -16,7 +16,7 @@ I got to know python throught data scientist course and then, so I'm studing thi
 
 I'm studying Software Engineering bachelor and postgraduate in Analysis and Program Development.
 
-I have knowledge in:
+I have knowledge in: <img align="center" alt="Renato-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=renthus&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renthus&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=renthus&theme=nord_dark) |
 | :-: | :-: | :-: |

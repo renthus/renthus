@@ -2,8 +2,6 @@
 
 <h4 align="center">
 
-[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/renthus)](https://www.facebook.com/renato.dasilvamaldonado/)
-[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/renthus)](https://www.instagram.com/renatosmaldonado/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/renthus)](https://www.linkedin.com/in/renatodasilvamaldonado/)
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16&link=https://github.com/renthus)](https://open.spotify.com/user/n47egsotufc2ruxtlnex6cra9)
 

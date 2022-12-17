@@ -10,7 +10,7 @@ I'm passionate about technology! Since 2011 when I started working as accountant
 
 I participated in two important SAP projects as internal consultant in FI/GL module.
 
-I got to know python through the data scientist course and since then, I've been studying this programming language for web development, task automation, graphical interfaces and cybersecurity hacking.
+I knew python through the data scientist course and since then, I've been studying this programming language for web development, task automation, graphical interfaces and cybersecurity hacking.
 
 I'm studying Software Engineering bachelor and postgraduate in Analysis and Program Development.
 

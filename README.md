@@ -21,4 +21,5 @@ I have knowledge in: <img align="center" alt="Renato-HTML" height="30" width="40
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=renthus&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renthus&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=renthus&theme=nord_dark) |
 | :-: | :-: | :-: |
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renthus&theme=nord_dark)
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renthus&theme=nord_dark) |
+| :-: |

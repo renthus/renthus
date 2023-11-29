@@ -9,8 +9,8 @@
                         [(_)] |=|    [(_)] |=|    [(_)] |=|     [(_)] |=|    [(_)] |=|    [(_)] |=|     [(_)] |=|
                          '-`  |_|     '-`  |_|     '-`  |_|      '-`  |_|     '-`  |_|     '-`  |_|      '-`  |_|
                         /mmm/        /mmm/        /mmm/         /mmm/        /mmm/        /mmm/         /mmm/
-</pre>
-<pre>
+
+  
 ┌──┤ WHOAMI ├────▰▰▰
 │
 ├─▣ Python Developer
@@ -20,8 +20,7 @@
 ├─▣ <a href="https://renthus.github.io/curriculo/">My Resume by Competency / Portfolio</a>
 │
 └───────────────────────────────────────────────────────────────▰▰▰
-</pre>
-<pre>
+
 ┌──┤ SOCIAL ├────▰▰▰
 │
 ├─▣ <a href="mailto:renthusdsm@gmail.com" target="_blank">E-mail</a>
@@ -31,16 +30,14 @@
 ├─▣ <a href="https://discord.com/channels/@me/749017217261109359" target="_blank">Discord</a>
 │
 └───────────────────────────────────────────────────────────────▰▰▰
-</pre>
-<pre>
+  
 ┌──┤ PROJECTS | WEB DEVELOPMENT ├────▰▰▰
 │
 ├─▣ <a href="https://github.com/renthus/secure-passwords-generator" target="_blank">Secure Passwords Generator</a>
 ├─▣ <a href="https://github.com/renthus/website-for-community" target="_blank">Website for Community</a> | <a href="https://comunidade17.herokuapp.com/" target="_blank">Access the deploy here!</a>
 │
 └───────────────────────────────────────────────────────────────▰▰▰
-</pre>
-<pre>
+  
 ┌──┤ PROJECTS | CYBERSECURITY ├────▰▰▰
 │
 ├─▣ <a href="https://github.com/renthus/email-finder-with-python" target="_blank">Email Finder with Python</a>

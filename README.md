@@ -14,8 +14,7 @@
 ┌──┤ WHOAMI ├────▰▰▰
 │
 ├─▣ Python Developer
-├─▣ Bachelor of Software Engineering student
-├─▣ Graduate Degree in Program Analysis and Development student
+├─▣ Cyber Threat Intelligence Analyst at Apura Cyber Intelligence S/A
 ├─▣ <a href="https://dio.me/sign-up?ref=06KIKS0GB9">Expert Campus DIO Ambassador</a>
 ├─▣ <a href="https://renthus.github.io/curriculo/">My Resume by Competency / Portfolio</a>
 │

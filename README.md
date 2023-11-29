@@ -13,9 +13,9 @@
   
 ┌──┤ WHOAMI ├────▰▰▰
 │
-├─▣ Python Developer
+├─▣ Python Developer for Cybersecurity
 ├─▣ Cyber Threat Intelligence Analyst at Apura Cyber Intelligence S/A
-├─▣ <a href="https://renthus.github.io/curriculo/">My Resume by Competency / Portfolio</a>
+├─▣ <a href="https://renthus.github.io/curriculo/" target="_blank">My Resume by Competency / Portfolio</a>
 │
 └───────────────────────────────────────────────────────────────▰▰▰
 

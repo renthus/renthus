@@ -30,14 +30,7 @@
 ├─▣ <a href="https://discord.com/channels/@me/749017217261109359" target="_blank">Discord</a>
 │
 └───────────────────────────────────────────────────────────────▰▰▰
-  
-┌──┤ PROJECTS | WEB DEVELOPMENT ├────▰▰▰
-│
-├─▣ <a href="https://github.com/renthus/secure-passwords-generator" target="_blank">Secure Passwords Generator</a>
-├─▣ <a href="https://github.com/renthus/website-for-community" target="_blank">Website for Community</a> | <a href="https://comunidade17.herokuapp.com/" target="_blank">Access the deploy here!</a>
-│
-└───────────────────────────────────────────────────────────────▰▰▰
-  
+
 ┌──┤ PROJECTS | CYBERSECURITY ├────▰▰▰
 │
 ├─▣ <a href="https://github.com/renthus/email-finder-with-python" target="_blank">Email Finder with Python</a>
@@ -54,6 +47,13 @@
 ├─▣ <a href="https://github.com/renthus/wifi-network-detection-with-python" target="_blank">Wi-fi Network Detection with Python</a>
 ├─▣ <a href="https://github.com/renthus/security-passwords-manager-exe" target="_blank">Secure Password Manager</a>
 ├─▣ <a href="https://github.com/renthus/secure-passwords-generator" target="_blank">Web Secure Password Generator</a>
+│
+└───────────────────────────────────────────────────────────────▰▰▰
+
+┌──┤ PROJECTS | WEB DEVELOPMENT ├────▰▰▰
+│
+├─▣ <a href="https://github.com/renthus/secure-passwords-generator" target="_blank">Secure Passwords Generator</a>
+├─▣ <a href="https://github.com/renthus/website-for-community" target="_blank">Website for Community</a> | <a href="https://comunidade17.herokuapp.com/" target="_blank">Access the deploy here!</a>
 │
 └───────────────────────────────────────────────────────────────▰▰▰
 </pre>

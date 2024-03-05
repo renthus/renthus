@@ -15,6 +15,7 @@
 │
 ├─▣ Python Developer for Cybersecurity
 ├─▣ Cyber Threat Intelligence Analyst at Apura Cyber Intelligence S/A
+├─▣ In progress: (1) Software Engineering Bachelor | (2) Computers Networking and Security Post Graduation
 ├─▣ <a href="https://renthus.github.io/curriculo/" target="_blank">My Resume by Competency / Portfolio</a>
 │
 └───────────────────────────────────────────────────────────────▰▰▰

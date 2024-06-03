@@ -1,61 +1,21 @@
-<pre>
-  ___   _      ___   _      ___   _      ___   _      ___   _      ___   _      ___   _      ___   _      ___   _  
- [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|
-  '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|
- /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /      /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /
-       |____________|____________|____________|____________|_____________|____________|____________|____________|
-                             |            |            |             |            |            |             |
-                         ___  \_      ___  \_      ___  \_       ___  \_      ___  \_      ___  \_       ___  \_
-                        [(_)] |=|    [(_)] |=|    [(_)] |=|     [(_)] |=|    [(_)] |=|    [(_)] |=|     [(_)] |=|
-                         '-`  |_|     '-`  |_|     '-`  |_|      '-`  |_|     '-`  |_|     '-`  |_|      '-`  |_|
-                        /mmm/        /mmm/        /mmm/         /mmm/        /mmm/        /mmm/         /mmm/
+# Hi, I'm Renato Maldonado 👨🏻‍💻
 
-  
-┌──┤ WHOAMI ├────▰▰▰
-│
-├─▣ Python Developer for Cybersecurity
-├─▣ Cyber Threat Intelligence Analyst at Apura Cyber Intelligence S/A
-├─▣ Software Engineering Bachelor in progress
-├─▣ <a href="https://renthus.github.io/curriculo/" target="_blank">My Resume by Competency / Portfolio</a>
-│
-└───────────────────────────────────────────────────────────────▰▰▰
+<h4 align="center">
 
-┌──┤ SOCIAL ├────▰▰▰
-│
-├─▣ <a href="mailto:renthusdsm@gmail.com" target="_blank">E-mail</a>
-├─▣ <a href="https://twitter.com/renthusdsm" target="_blank">Twitter</a>
-├─▣ <a href="https://www.linkedin.com/in/renatodasilvamaldonado/" target="_blank">LinkedIn</a>
-├─▣ <a href="https://t.me/renatomaldonado" target="_blank">Telegram</a>
-├─▣ <a href="https://discord.com/channels/@me/749017217261109359" target="_blank">Discord</a>
-│
-└───────────────────────────────────────────────────────────────▰▰▰
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/renthus)](https://www.linkedin.com/in/renatodasilvamaldonado/)
+[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/renthus)](https://www.instagram.com/_renatomaldonado_/)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/renatomaldonado)
 
-┌──┤ PROJECTS | CYBERSECURITY ├────▰▰▰
-│
-├─▣ <a href="https://github.com/renthus/email-finder-with-python" target="_blank">Email Finder with Python</a>
-├─▣ <a href="https://github.com/renthus/wifi-password-crack-with-python" target="_blank">Wi-Fi Password Crack with Python</a>
-├─▣ <a href="https://github.com/renthus/ssh-password-crack-with-python" target="_blank">SSH Password Crack with Python</a>
-├─▣ <a href="https://github.com/renthus/ftp-password-crack-with-python" target="_blank">FTP Password Crack with Python</a>
-├─▣ <a href="https://github.com/renthus/password-crack-file-with-python" target="_blank">Password Crack File with Python</a>
-├─▣ <a href="https://github.com/renthus/cve-search-with-python" target="_blank">CVE Search with Python</a>
-├─▣ <a href="https://github.com/renthus/service-enumeration-and-banner-with-python" target="_blank">Service Enumeration and Banner with Python</a>
-├─▣ <a href="https://github.com/renthus/port-scanner-with-python" target="_blank">Port Scanner with Python</a>
-├─▣ <a href="https://github.com/renthus/web-crawler-with-python" target="_blank">Web Crawler with Python</a> 
-├─▣ <a href="https://github.com/renthus/brute-force-folders-with-python" target="_blank">Brute Force Folders with Python</a> 
-├─▣ <a href="https://github.com/renthus/network-scanning-with-python" target="_blank">Network Scanning with Python</a>
-├─▣ <a href="https://github.com/renthus/wifi-network-detection-with-python" target="_blank">Wi-fi Network Detection with Python</a>
-├─▣ <a href="https://github.com/renthus/security-passwords-manager-exe" target="_blank">Secure Password Manager</a>
-├─▣ <a href="https://github.com/renthus/secure-passwords-generator" target="_blank">Web Secure Password Generator</a>
-│
-└───────────────────────────────────────────────────────────────▰▰▰
+</h4>
 
-┌──┤ PROJECTS | WEB DEVELOPMENT ├────▰▰▰
-│
-├─▣ <a href="https://github.com/renthus/secure-passwords-generator" target="_blank">Secure Passwords Generator</a>
-├─▣ <a href="https://github.com/renthus/website-for-community" target="_blank">Website for Community</a> | <a href="https://comunidade17.herokuapp.com/" target="_blank">Access the deploy here!</a>
-│
-└───────────────────────────────────────────────────────────────▰▰▰
-</pre>
+I'm passionate about technology! I had my first encounter with computers at the age of 12, learning about MS-DOS and Windows 3.1. Since then, I've been exploring more about this fascinating field. I love the opportunities technology provides for people and how it aims to make their lives easier.
+
+Currently, I'm pursuing a Bachelor's degree in Software Engineering and a postgraduate degree in Cyber Intelligence. I'm dedicated to becoming a full-stack developer with a focus on Python and a specialist in cybersecurity.
+
+I have skills in Python, Django, JavaScript, TypeScript, Node.js, MySQL, HTML, CSS, GIT, Linux and Windows.
+
+You can reach me at renatodasilvamaldonado@gmail.com.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renthus&label=Profile%20views&color=0e75b6&style=flat" alt="renthus"> </p>
 
 <p align="left">

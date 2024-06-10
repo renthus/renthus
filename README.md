@@ -61,12 +61,3 @@ Frontend:
   Others:
   <img align="center" alt="Renato-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg">
 </div>
-  
-## Top Repositories:
-
-<a href="https://github.com/renthus/curriculo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renthus&repo=curriculo&theme=github_dark">
-</a>
-<a href="https://github.com/renthus/security-passwords-manager-exe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renthus&repo=security-passwords-manager-exe&theme=github_dark">
-</a>

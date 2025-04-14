@@ -12,7 +12,7 @@
 
 I'm passionate about technology! My first experience with computers was at the age of 12, learning about MS-DOS and Windows 3.1. Since then, I've been fascinated by how technology empowers people and improves their lives.
 
-I'm currently pursuing a Bachelor's degree in Software Engineering and a postgraduate degree in Cyber Intelligence. My focus is on becoming a Full Stack Developer specialized in Python and Cybersecurity.
+I'm currently pursuing a Bachelor's degree in Software Engineering. My focus is on becoming a Full Stack Developer specialized in Python and Cybersecurity.
 
 💻 I'm proficient in:  
 Python • Django • JavaScript • TypeScript • Node.js • MySQL • HTML • CSS • Git • Linux • Windows

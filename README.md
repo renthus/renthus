@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Renato Maldonado | Full Stack Python Developer & Cybersecurity Enthusiast
+# 👨🏻‍💻 Renato Maldonado | Full Stack Python Developer & Cybersecurity Analyst
 
 <h4 align="center">
 

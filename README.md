@@ -25,13 +25,6 @@ Python • Django • JavaScript • TypeScript • Node.js • MySQL • HTML �
 
 ---
 
-## 🚀 Featured Projects
-
-- 🔐 [Cybersecurity Toolkit](https://github.com/seuusuario/projeto): Automations and tools focused on information security.
-- 📊 [Data Analysis Dashboard](https://github.com/seuusuario/projeto): Visual data insights using Python and Plotly.
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -40,50 +33,5 @@ Python • Django • JavaScript • TypeScript • Node.js • MySQL • HTML �
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renthus&layout=compact&langs_count=7&theme=github_dark"/>
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=renthus&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&fire=DD0000"/>
 </div>
-
----
-
-## 🛠 Tech Stack & Tools
-
-**Frontend:**  
-<img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-
-<br>
-
-**Backend:**  
-<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-
-<br>
-
-**Databases:**  
-<img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-<img align="center" alt="SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-
-<br>
-
-**Version Control:**  
-<img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-
-<br>
-
-**Operating Systems:**  
-<img align="center" alt="Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
-<img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-<img align="center" alt="Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
-
-<br>
-
-**IDEs & Editors:**  
-<img align="center" alt="PyCharm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
-<img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-
-<br>
-
-**Others:**  
-<img align="center" alt="PuTTY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg">
 
 ---

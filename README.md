@@ -81,7 +81,7 @@ Python • Django • JavaScript • TypeScript • Node.js • MySQL • HTML �
 <img align="center" alt="PyCharm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
 <img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 
-<br><br>
+<br>
 
 **Others:**  
 <img align="center" alt="PuTTY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg">
